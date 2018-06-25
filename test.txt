@@ -1,2 +1,6 @@
 "new branch" 
+<<<<<<< HEAD
 "add by anoter user" 
+=======
+"add new line" 
+>>>>>>> 324fca94b90339d3cb876149b1ad81dfce15d637
